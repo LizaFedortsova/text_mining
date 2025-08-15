@@ -1,0 +1,410 @@
+Input                                                                                             UniProt_ID
+------------------------------------------------------------------------------------------------  ----------
+Input                                                                                             Not found 
+UniProt_ID                                                                                        Not found 
+------------------------------------------------------------------------------------------------  Not found 
+----------                                                                                        Not found 
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION                                                        Skipped   
+Skipped                                                                                           Not found 
+https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION  Skipped   
+Skipped                                                                                           Not found 
+ABI3BP                                                                                            A0AA34QVJ5
+A0AA34QVJ5                                                                                        Not found 
+ACTA2                                                                                             D2JYH4    
+D2JYH4                                                                                            Not found 
+ADAM12                                                                                            Q5JRP2    
+Q5JRP2                                                                                            Not found 
+ANPEP                                                                                             H0YM04    
+H0YM04                                                                                            Not found 
+APLP1                                                                                             B7Z4G8    
+B7Z4G8                                                                                            Not found 
+AREG                                                                                              D6RFX5    
+D6RFX5                                                                                            Not found 
+BASP1                                                                                             U3KQP0    
+U3KQP0                                                                                            Not found 
+BDNF                                                                                              A0A0S2Z3M9
+A0A0S2Z3M9                                                                                        Not found 
+BGN                                                                                               C9JKG1    
+C9JKG1                                                                                            Not found 
+BMP1                                                                                              Q3MIM8    
+Q3MIM8                                                                                            Not found 
+CADM1                                                                                             A0A087X0T8
+A0A087X0T8                                                                                        Not found 
+CALD1                                                                                             C9JE79    
+C9JE79                                                                                            Not found 
+CALU                                                                                              H0Y875    
+H0Y875                                                                                            Not found 
+CAP2                                                                                              F8WDB9    
+F8WDB9                                                                                            Not found 
+CAPG                                                                                              H7C0X8    
+H7C0X8                                                                                            Not found 
+CCN1                                                                                              A0A6Q8PGQ1
+A0A6Q8PGQ1                                                                                        Not found 
+CCN2                                                                                              P29279    
+P29279                                                                                            Not found 
+CD44                                                                                              E9PKC6    
+E9PKC6                                                                                            Not found 
+CD59                                                                                              E9PI80    
+E9PI80                                                                                            Not found 
+CDH11                                                                                             H3BP26    
+H3BP26                                                                                            Not found 
+CDH2                                                                                              A0A6Q8PG20
+A0A6Q8PG20                                                                                        Not found 
+CDH6                                                                                              P55285    
+P55285                                                                                            Not found 
+COL11A1                                                                                           A0A2R8Y4I5
+A0A2R8Y4I5                                                                                        Not found 
+COL12A1                                                                                           H0Y991    
+H0Y991                                                                                            Not found 
+COL16A1                                                                                           H7C3F0    
+H7C3F0                                                                                            Not found 
+COL1A1                                                                                            I3L3H7    
+I3L3H7                                                                                            Not found 
+COL1A2                                                                                            A2TIK1    
+A2TIK1                                                                                            Not found 
+COL3A1                                                                                            P02461    
+P02461                                                                                            Not found 
+COL4A1                                                                                            A0AAQ5BHW8
+A0AAQ5BHW8                                                                                        Not found 
+COL4A2                                                                                            A0AAQ5BHW7
+A0AAQ5BHW7                                                                                        Not found 
+COL5A1                                                                                            B2ZZ86    
+B2ZZ86                                                                                            Not found 
+COL5A2                                                                                            A0A3B3IRH9
+A0A3B3IRH9                                                                                        Not found 
+COL5A3                                                                                            P25940    
+P25940                                                                                            Not found 
+COL6A2                                                                                            Q6FHW5    
+Q6FHW5                                                                                            Not found 
+COL6A3                                                                                            P12111    
+P12111                                                                                            Not found 
+COL7A1                                                                                            Q02388    
+Q02388                                                                                            Not found 
+COL8A2                                                                                            P25067    
+P25067                                                                                            Not found 
+COLGALT1                                                                                          A0A8I5QL08
+A0A8I5QL08                                                                                        Not found 
+COMP                                                                                              P49747    
+P49747                                                                                            Not found 
+COPA                                                                                              A0A3B3IS23
+A0A3B3IS23                                                                                        Not found 
+CRLF1                                                                                             M0QZL6    
+M0QZL6                                                                                            Not found 
+CTHRC1                                                                                            E5RK99    
+E5RK99                                                                                            Not found 
+CXCL1                                                                                             P09341    
+P09341                                                                                            Not found 
+CXCL12                                                                                            P48061    
+P48061                                                                                            Not found 
+CXCL6                                                                                             D6RF92    
+D6RF92                                                                                            Not found 
+CXCL8                                                                                             A0A8Q3SIG6
+A0A8Q3SIG6                                                                                        Not found 
+DAB2                                                                                              D6RIA5    
+D6RIA5                                                                                            Not found 
+DCN                                                                                               F8VXZ8    
+F8VXZ8                                                                                            Not found 
+DKK1                                                                                              I1W660    
+I1W660                                                                                            Not found 
+DPYSL3                                                                                            Q6DEN2    
+Q6DEN2                                                                                            Not found 
+DST                                                                                               E9PHM6    
+E9PHM6                                                                                            Not found 
+ECM1                                                                                              C8CHS3    
+C8CHS3                                                                                            Not found 
+ECM2                                                                                              Q3KR19    
+Q3KR19                                                                                            Not found 
+EDIL3                                                                                             O43854    
+O43854                                                                                            Not found 
+EFEMP2                                                                                            E9PRQ8    
+E9PRQ8                                                                                            Not found 
+ELN                                                                                               E7EN51    
+E7EN51                                                                                            Not found 
+EMP3                                                                                              M0R122    
+M0R122                                                                                            Not found 
+ENO2                                                                                              F5H0C8    
+F5H0C8                                                                                            Not found 
+FAP                                                                                               H7C4D9    
+H7C4D9                                                                                            Not found 
+FAS                                                                                               A0A8Q3WLK6
+A0A8Q3WLK6                                                                                        Not found 
+FBLN1                                                                                             A0A8S0LWY1
+A0A8S0LWY1                                                                                        Not found 
+FBLN2                                                                                             C9JQS6    
+C9JQS6                                                                                            Not found 
+FBLN5                                                                                             G3V2P8    
+G3V2P8                                                                                            Not found 
+FBN1                                                                                              F6U495    
+F6U495                                                                                            Not found 
+FBN2                                                                                              D6RJI3    
+D6RJI3                                                                                            Not found 
+FERMT2                                                                                            A0A0U1RRM8
+A0A0U1RRM8                                                                                        Not found 
+FGF2                                                                                              A0A0A0MQV6
+A0A0A0MQV6                                                                                        Not found 
+FLNA                                                                                              F8WE98    
+F8WE98                                                                                            Not found 
+FMOD                                                                                              A0A3B3IRN5
+A0A3B3IRN5                                                                                        Not found 
+FN1                                                                                               A6YID7    
+A6YID7                                                                                            Not found 
+FOXC2                                                                                             I6ZZU0    
+I6ZZU0                                                                                            Not found 
+FSTL1                                                                                             C9J5G4    
+C9J5G4                                                                                            Not found 
+FSTL3                                                                                             A0A087X1Q2
+A0A087X1Q2                                                                                        Not found 
+FUCA1                                                                                             P04066    
+P04066                                                                                            Not found 
+FZD8                                                                                              Q9H461    
+Q9H461                                                                                            Not found 
+GADD45A                                                                                           A0A3B3ITF9
+A0A3B3ITF9                                                                                        Not found 
+GADD45B                                                                                           K7EPQ8    
+K7EPQ8                                                                                            Not found 
+GAS1                                                                                              P54826    
+P54826                                                                                            Not found 
+GEM                                                                                               E5RJF9    
+E5RJF9                                                                                            Not found 
+GJA1                                                                                              P17302    
+P17302                                                                                            Not found 
+GLIPR1                                                                                            F6VVE8    
+F6VVE8                                                                                            Not found 
+GPC1                                                                                              C9J4Y6    
+C9J4Y6                                                                                            Not found 
+GPX7                                                                                              Q96SL4    
+Q96SL4                                                                                            Not found 
+GREM1                                                                                             H0YLY2    
+H0YLY2                                                                                            Not found 
+HTRA1                                                                                             Q05DJ8    
+Q05DJ8                                                                                            Not found 
+ID2                                                                                               Q02363    
+Q02363                                                                                            Not found 
+IGFBP2                                                                                            H7C1H0    
+H7C1H0                                                                                            Not found 
+IGFBP3                                                                                            C9JMX4    
+C9JMX4                                                                                            Not found 
+IGFBP4                                                                                            P22692    
+P22692                                                                                            Not found 
+IL15                                                                                              P40933    
+P40933                                                                                            Not found 
+IL32                                                                                              F8VSD2    
+F8VSD2                                                                                            Not found 
+IL6                                                                                               B5MC14    
+B5MC14                                                                                            Not found 
+INHBA                                                                                             P08476    
+P08476                                                                                            Not found 
+ITGA2                                                                                             E7EMF1    
+E7EMF1                                                                                            Not found 
+ITGA5                                                                                             H0YHL9    
+H0YHL9                                                                                            Not found 
+ITGAV                                                                                             L7RXH0    
+L7RXH0                                                                                            Not found 
+ITGB1                                                                                             E7EUI6    
+E7EUI6                                                                                            Not found 
+ITGB3                                                                                             A7U833    
+A7U833                                                                                            Not found 
+ITGB5                                                                                             H7C4W1    
+H7C4W1                                                                                            Not found 
+JUN                                                                                               Q6FHK0    
+Q6FHK0                                                                                            Not found 
+LAMA1                                                                                             L8E9C2    
+L8E9C2                                                                                            Not found 
+LAMA2                                                                                             A0A087WX80
+A0A087WX80                                                                                        Not found 
+LAMA3                                                                                             A0PJJ8    
+A0PJJ8                                                                                            Not found 
+LAMC1                                                                                             Q6NVY8    
+Q6NVY8                                                                                            Not found 
+LAMC2                                                                                             Q13753    
+Q13753                                                                                            Not found 
+LGALS1                                                                                            F8WEI7    
+F8WEI7                                                                                            Not found 
+LOX                                                                                               B7ZAJ4    
+B7ZAJ4                                                                                            Not found 
+LOXL1                                                                                             H3BUV8    
+H3BUV8                                                                                            Not found 
+LOXL2                                                                                             W6I206    
+W6I206                                                                                            Not found 
+LRP1                                                                                              L0R6J6    
+L0R6J6                                                                                            Not found 
+LRRC15                                                                                            Q8TF66    
+Q8TF66                                                                                            Not found 
+LUM                                                                                               P51884    
+P51884                                                                                            Not found 
+MAGEE1                                                                                            Q6IAI7    
+Q6IAI7                                                                                            Not found 
+MATN2                                                                                             E5RJM4    
+E5RJM4                                                                                            Not found 
+MATN3                                                                                             O15232    
+O15232                                                                                            Not found 
+MCM7                                                                                              C6EMX8    
+C6EMX8                                                                                            Not found 
+MEST                                                                                              C9JG66    
+C9JG66                                                                                            Not found 
+MFAP5                                                                                             B3KW70    
+B3KW70                                                                                            Not found 
+MGP                                                                                               H0YGZ6    
+H0YGZ6                                                                                            Not found 
+MMP1                                                                                              L8EC95    
+L8EC95                                                                                            Not found 
+MMP14                                                                                             P50281    
+P50281                                                                                            Not found 
+MMP2                                                                                              H3BS34    
+H3BS34                                                                                            Not found 
+MMP3                                                                                              A0A0U3J4I2
+A0A0U3J4I2                                                                                        Not found 
+MSX1                                                                                              E9KXS9    
+E9KXS9                                                                                            Not found 
+MXRA5                                                                                             Q9NR99    
+Q9NR99                                                                                            Not found 
+MYL9                                                                                              Q6IBG1    
+Q6IBG1                                                                                            Not found 
+MYLK                                                                                              A0A8I5KUP2
+A0A8I5KUP2                                                                                        Not found 
+NID2                                                                                              Q8IV28    
+Q8IV28                                                                                            Not found 
+NNMT                                                                                              P40261    
+P40261                                                                                            Not found 
+NOTCH2                                                                                            A0A494C049
+A0A494C049                                                                                        Not found 
+NT5E                                                                                              H0Y7R7    
+H0Y7R7                                                                                            Not found 
+NTM                                                                                               C9JK95    
+C9JK95                                                                                            Not found 
+OXTR                                                                                              C9JN09    
+C9JN09                                                                                            Not found 
+P3H1                                                                                              H7C2W6    
+H7C2W6                                                                                            Not found 
+PCOLCE                                                                                            Q15113    
+Q15113                                                                                            Not found 
+PCOLCE2                                                                                           L8E804    
+L8E804                                                                                            Not found 
+PDGFRB                                                                                            E5RII0    
+E5RII0                                                                                            Not found 
+PDLIM4                                                                                            A0A0S2Z4N4
+A0A0S2Z4N4                                                                                        Not found 
+PFN2                                                                                              C9J0J7    
+C9J0J7                                                                                            Not found 
+PLAUR                                                                                             M0QYS6    
+M0QYS6                                                                                            Not found 
+PLOD1                                                                                             Q5JXB8    
+Q5JXB8                                                                                            Not found 
+PLOD2                                                                                             A0A9L9PXC2
+A0A9L9PXC2                                                                                        Not found 
+PLOD3                                                                                             H7C0B8    
+H7C0B8                                                                                            Not found 
+PMEPA1                                                                                            A2A2F5    
+A2A2F5                                                                                            Not found 
+PMP22                                                                                             J3KT36    
+J3KT36                                                                                            Not found 
+POSTN                                                                                             Q15063    
+Q15063                                                                                            Not found 
+PPIB                                                                                              A0ABB0MV91
+A0ABB0MV91                                                                                        Not found 
+PRRX1                                                                                             G3V2N3    
+G3V2N3                                                                                            Not found 
+PRSS2                                                                                             A6XMV9    
+A6XMV9                                                                                            Not found 
+PTHLH                                                                                             F5H485    
+F5H485                                                                                            Not found 
+PTX3                                                                                              O75364    
+O75364                                                                                            Not found 
+PVR                                                                                               A0A9L9PXN8
+A0A9L9PXN8                                                                                        Not found 
+QSOX1                                                                                             H0Y5Z8    
+H0Y5Z8                                                                                            Not found 
+RGS4                                                                                              E9PS05    
+E9PS05                                                                                            Not found 
+RHOB                                                                                              P62745    
+P62745                                                                                            Not found 
+SAT1                                                                                              E9PD37    
+E9PD37                                                                                            Not found 
+SCG2                                                                                              C9JDT0    
+C9JDT0                                                                                            Not found 
+SDC1                                                                                              H7C1K4    
+H7C1K4                                                                                            Not found 
+SDC4                                                                                              P31431    
+P31431                                                                                            Not found 
+SERPINE1                                                                                          P05121    
+P05121                                                                                            Not found 
+SERPINE2                                                                                          C9JRK5    
+C9JRK5                                                                                            Not found 
+SERPINH1                                                                                          E9PJH8    
+E9PJH8                                                                                            Not found 
+SFRP1                                                                                             Q05DS5    
+Q05DS5                                                                                            Not found 
+SFRP4                                                                                             C9JMJ2    
+C9JMJ2                                                                                            Not found 
+SGCB                                                                                              Q6IBJ4    
+Q6IBJ4                                                                                            Not found 
+SGCD                                                                                              A0A7R6M8P0
+A0A7R6M8P0                                                                                        Not found 
+SGCG                                                                                              Q13326    
+Q13326                                                                                            Not found 
+SLC6A8                                                                                            P48029    
+P48029                                                                                            Not found 
+SLIT2                                                                                             X6R3P0    
+X6R3P0                                                                                            Not found 
+SLIT3                                                                                             L8E8Y7    
+L8E8Y7                                                                                            Not found 
+SNAI2                                                                                             A0A1X7SC17
+A0A1X7SC17                                                                                        Not found 
+SNTB1                                                                                             A0A3B3ITC2
+A0A3B3ITC2                                                                                        Not found 
+SPARC                                                                                             E5RJA5    
+E5RJA5                                                                                            Not found 
+SPOCK1                                                                                            D6RAM7    
+D6RAM7                                                                                            Not found 
+SPP1                                                                                              A0A804HLB3
+A0A804HLB3                                                                                        Not found 
+TAGLN                                                                                             B0YJ58    
+B0YJ58                                                                                            Not found 
+TFPI2                                                                                             A0A3B3IRW1
+A0A3B3IRW1                                                                                        Not found 
+TGFB1                                                                                             A0A7I2YQL8
+A0A7I2YQL8                                                                                        Not found 
+TGFBI                                                                                             A0A0S2Z4Q2
+A0A0S2Z4Q2                                                                                        Not found 
+TGFBR3                                                                                            E9PKY4    
+E9PKY4                                                                                            Not found 
+TGM2                                                                                              A2A2A0    
+A2A2A0                                                                                            Not found 
+THBS1                                                                                             A8MZG1    
+A8MZG1                                                                                            Not found 
+THBS2                                                                                             A0A7I2V344
+A0A7I2V344                                                                                        Not found 
+THY1                                                                                              P04216    
+P04216                                                                                            Not found 
+TIMP1                                                                                             Q5H9B4    
+Q5H9B4                                                                                            Not found 
+TIMP3                                                                                             P35625    
+P35625                                                                                            Not found 
+TNC                                                                                               A9YUB8    
+A9YUB8                                                                                            Not found 
+TNFAIP3                                                                                           D3TTZ3    
+D3TTZ3                                                                                            Not found 
+TNFRSF11B                                                                                         E5RFV7    
+E5RFV7                                                                                            Not found 
+TNFRSF12A                                                                                         I3L3P4    
+I3L3P4                                                                                            Not found 
+TPM1                                                                                              A0A494C0V8
+A0A494C0V8                                                                                        Not found 
+TPM2                                                                                              A0A2R8Y6A3
+A0A2R8Y6A3                                                                                        Not found 
+TPM4                                                                                              A0A2R8YHD2
+A0A2R8YHD2                                                                                        Not found 
+VCAM1                                                                                             P19320    
+P19320                                                                                            Not found 
+VCAN                                                                                              E9PF17    
+E9PF17                                                                                            Not found 
+VEGFA                                                                                             A0A0A0MSI7
+A0A0A0MSI7                                                                                        Not found 
+VEGFC                                                                                             Q6FH59    
+Q6FH59                                                                                            Not found 
+VIM                                                                                               B0YJC4    
+B0YJC4                                                                                            Not found 
+WIPF1                                                                                             A0A8V8TNJ8
+A0A8V8TNJ8                                                                                        Not found 
+WNT5A                                                                                             A0FKN4    
+A0FKN4                                                                                            Not found 

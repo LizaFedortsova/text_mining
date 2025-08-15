@@ -113,7 +113,7 @@ def main():
     output_data = [(gene, results.get(gene, 'Unknown')) for gene in all_genes]
     
     # Сохраняем результаты с выровненными колонками
-    output_file = "uniprot_results_aligned.txt"
+    output_file = "id_uniprot_results.txt"
     save_aligned_columns(output_data, output_file)
 
     print(f"\nОбработка заняла {time.time()-start_time:.2f} секунд")

@@ -108,12 +108,14 @@ def main():
     """Main execution function.""" 
     file_name = input('Введите путь к файлу, содержащему Protein IDs:')
     with open(file_name, 'r', encoding='UTF-8') as file_in:
-        uniprot_ids = file_in.read().split()
+        uniprot_ids = file_in.read().split() 
+    # нужно чтобы принимал только первую колонку
+    uniprot_ids = [uniprot_ids[i] for i in range(len(uniprot_ids)) if i % 2 == 1]
     columns = [
         "UniProt ID",
         "Recommended Name",
         "Short Names",
-        "Alternative Names",
+        "Alternative Names", 
         "Gene Names",
         "Chains"
     ]
