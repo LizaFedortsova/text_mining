@@ -105,8 +105,10 @@ def save_as_table(results, filename, columns, sep="  "):
 
 
 def main():
-    """Main execution function."""
-    uniprot_ids = ["P00533", "P15056", "P04637", "Q9Y6Y9"]
+    """Main execution function.""" 
+    file_name = input('Введите путь к файлу, содержащему Protein IDs:')
+    with open(file_name, 'r', encoding='UTF-8') as file_in:
+        uniprot_ids = file_in.read().split()
     columns = [
         "UniProt ID",
         "Recommended Name",
